@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppExADT2_CristobalRevelles</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvTipo">Tipo</string>
+    <string name="tvOrigen">Origen</string>
+    <string name="tvNutrientes">Nutrientes</string>
+    <string name="tvFuncion">Función</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnEliminar">Eliminar ALimento</string>
+
+    <string name="toastCampoNombre">Debe rellenar el campo NOMBRE</string>
+    <string name="toastCampoOrigen">Debe rellenar el campo ORIGEN</string>
+    <string name="toastCampoTipo">Debe rellenar el campo TIPO</string>
+    <string name="toastCampoNutrientes">Debe rellenar el campo NUTRIENTES</string>
+    <string name="toastCampoFuncion">Debe rellenar el campo FUNCION</string>
+    <string name="toastInsertOk">Alimento insertado correctamente</string>
+    <string name="toastInsertKO">Error en la inserción</string>
+    <string name="toastNOalimento">No hay ningun alimento con el valor introducido</string>
+
+
+    <string name="elemELIM">elemento eliminado</string>
+    <string name="dialogoAceptar">aceptar</string>
+    <string name="dialogoCancelar">cancelar</string>
+    <string name="dialogo">Desea eliminar el alimento seleccionado...</string>
+</resources>
